@@ -11,7 +11,7 @@ The main objective of today's lab is to set up your google colab environment and
 <img src="GoogleColab.png">
 If you don't see the box, try selecting "Open Notebook" from the File menu.
 
-4. Click "GitHub" at the top of the orange box and make sure that the "Include private repos" box is **not** checked.  (You may have to dismiss a separate "Authorize" window in order to uncheck the box.)
+4. Click "GitHub" in the left margin of the box and make sure that the "Include private repos" box is **not** checked.  (You may have to dismiss a separate "Authorize" window in order to uncheck the box.)
 
 5. In the text field labeled "Enter a GitHub URL...", type "data-8/textbook" and then click the magnifying glass to search for this repository.  If this is done correctly, the notebooks in the repository will automatically populate the bottom of the window.
 
